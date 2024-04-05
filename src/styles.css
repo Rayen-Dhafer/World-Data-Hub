@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+.avatar{
+
+    list-style: none;
+    padding: 5px;
+    text-align: left;
+    font-size: 95%;
+    font-family: Verdana;
+}
+.avatar img{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
